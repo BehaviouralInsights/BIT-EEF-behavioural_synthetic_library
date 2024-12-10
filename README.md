@@ -1,12 +1,12 @@
 # Tool for the creation of low-fidelity synthetic data
 
-This tool was developed as a component of the Creation of Synthetic data project that BIT and Nesta completed for the Education Endowment Foundation (EEF). It was used to generate low-fidelity synthetic datasets of all randomised controlled trial datasets in the EEF’s data archive. Ultimately, the outputs will be included in a data catalogue that will accompany this archive.
+This tool was developed as a component of the Creation of Synthetic data project that BIT and Nesta completed for the Education Endowment Foundation (EEF). It was used to generate low-fidelity synthetic datasets of all randomised controlled trial datasets in the [EEF’s data archive](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/evaluation-guidance-and-resources/evaluation-data-archive). Ultimately, the outputs will be included in a data catalogue that will accompany this archive.
 
 ## Acknowledgements
 
 This work was commissioned for EEF, and funded through the Department for Education, part of the UK Government. The work has been supported by FFT Education, who is the data processor for EEF’s data archive, as well as by the Office for National Statistics, who manage the Secure Research Service through which the datasets in the archive are available. This work does not imply the endorsement of the ONS or other data owners.
 
-This tool is a specialised version of BIT’s original synthetic datatool, developed for ADR UK. The current version was developed to specifically work on the EEF data and under the constraints of the ONS Secure Research Service where this data was stored. The original tool can be found in this repository, and links to guidance about what low-fidelity synthetic data is and how the tool works can be found in that repository.
+This tool is a specialised version of BIT’s original synthetic datatool, developed for ADR UK. The current version was developed to specifically work on the EEF data and under the constraints of the ONS Secure Research Service where this data was stored. The original tool can be found in [this repository](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/evaluation-guidance-and-resources/evaluation-data-archive), and links to guidance about what low-fidelity synthetic data is and how the tool works can also be found in that repository.
 
 ## Using the tool
 
